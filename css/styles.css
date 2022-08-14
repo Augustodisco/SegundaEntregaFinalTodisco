@@ -411,3 +411,33 @@ margin-bottom:10px;
       left:100%;
   }
 }
+
+
+/*trivia*/
+.containerfonttrivia{
+  text-justify: auto;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.row {
+  background-color: lime;
+}
+
+.row div {
+  border: solid 8px grey;
+}
+
+.row div h2 {
+  text-decoration: unset;
+  background-color: blueviolet;
+}
+
+.cita{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer{
+  text-align: center;
+}
